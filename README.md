@@ -1,3 +1,4 @@
 # images
 
-![thumbnail](https://github.com/srijagadiraju/images/assets/129122908/2965d685-ef68-4be5-bedb-2de8ca27fb83)
+
+![thumbnail](https://github.com/srijagadiraju/images/assets/129122908/147b26e1-cad3-4e45-9718-1ba552101653)
